@@ -1,0 +1,41 @@
+footer {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    height: 428px;
+    background-color: #ffffff;
+}
+
+#box {
+    width: 531px;
+}
+
+footer h3 {
+    padding-top: 104px;
+    font-size: 100px;
+}
+
+footer p {
+    padding-top: 8px;
+    color: #8987A1;
+    font-family: "Raleway", sans-serif;
+}
+
+footer ul {
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 48px;
+}
+
+
+
+footer ul li {
+    font-family: "Raleway", sans-serif;
+    list-style: none;
+}
+
+footer ul li a {
+    text-decoration: none;
+    color: #8987A1;
+}
