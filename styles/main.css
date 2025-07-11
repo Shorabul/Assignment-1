@@ -89,3 +89,92 @@
 }
 
 /* Productive Users Section End */
+/* Users Feedback Section Start */
+.users-feedback {
+    /* margin-top: 116px; */
+    display: flex;
+    justify-content: center;
+    margin: 137px 149px 137px 151px;
+    /* height: 342px; */
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#users-feedback-title {
+    font-size: 42px;
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    color: #252432;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+
+.user-box {
+    background-color: rgb(255, 255, 255, 0.5);
+    border-radius: 14px;
+}
+
+
+.users-feedback-container {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+
+.users-star {
+    display: flex;
+    justify-content: left;
+    gap: 4px;
+    padding: 24px 226.67px 24px 24px;
+    height: 20px;
+    width: 116px;
+}
+
+
+.comment-title {
+    font-size: 24px;
+    color: #252432;
+    font-weight: 600;
+    padding: 0px 97.67px 8px 24px;
+}
+
+
+.comment {
+    padding: 0px 24px 24px 24px;
+    font-size: 16px;
+    color: #252432;
+    font-weight: 200;
+    line-height: 25px;
+    height: 44px;
+    width: 318.67px;
+}
+
+
+.user-info {
+    display: flex;
+    padding: 0px 24px 24px 24px;
+    gap: 6px;
+}
+
+
+.user-img {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+}
+
+
+.user-name {
+    font-size: 16px;
+    color: dimgray;
+    margin-bottom: 2px;
+}
+
+
+.user-date {
+    color: darkgrey;
+}
+
+/* Users Feedback Section End */
